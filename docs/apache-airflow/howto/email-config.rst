@@ -59,6 +59,7 @@ For example a ``html_content_template`` file could look like this:
 
 .. note::
     For more information on setting the configuration, see :doc:`set-config`
+    You can find the available variables here.
 
 .. _email-configuration-sendgrid:
 
